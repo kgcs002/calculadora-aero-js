@@ -39,7 +39,7 @@ Simulador web que calcula e exibe a trajetória de voo de uma aeronave usando pr
 
 ## 🎯 Como Usar
 
-1. Acesse: 
+1. Acesse: https://calculadora-aero-js.vercel.app/
 
 **Dica:** Experimente ângulos entre 30° e 60° para trajetórias mais interessantes!
 
