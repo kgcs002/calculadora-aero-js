@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>✈️ Simulador de Voo</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header>
+    <h1>✈️ Simulador de Trajetória de Voo 📈</h1>
+  </header>
+
+  <main>
+    <label for="velocidade">🚀 Velocidade inicial (m/s):</label>
+    <input type="number" id="velocidade" placeholder="Ex: 50" />
+
+    <label for="angulo">📐 Ângulo de subida (graus):</label>
+    <input type="number" id="angulo" placeholder="Ex: 45" />
+
+    <label for="tempo">⏱️ Tempo de voo (s):</label>
+    <input type="number" id="tempo" placeholder="Ex: 10" />
+
+    <button onclick="simularVoo()">🎯 Simular</button>
+
+    <div id="output"></div>
+    <div id="grafico"></div>
+  </main>
+
+  <footer>
+    &copy; 2025 Simulador de Voo | Desenvolvido por Kauan Sasaqui ✈️🔥
+  </footer>
+</body>
+</html>
