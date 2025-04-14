@@ -47,8 +47,8 @@ Simulador web que calcula e exibe a trajetória de voo de uma aeronave usando pr
 
 ## 📸 Preview
 
-![Simulador em ação](![image](https://imgur.com/a/qKRKFu8)
-) *(imagem ilustrativa)*
+https://imgur.com/a/qKRKFu8
+*(imagem ilustrativa)*
 
 ---
 
